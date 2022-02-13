@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524619c930eb85a4193a75ca9d3102fa, type: 3}
+  m_Name: Network Settings
+  m_EditorClassIdentifier: 
+  host: https://docs.google.com/spreadsheets/d/
+  date: 
+  sheetId: 
+  sheetTypes:
+  - name: 57th SCC
+    sheetId: 10YahYdTJEibExT2uYpYoPQIEl3tKVlJe6rKhY3702jg
+    sheetTable:
+    - name: Overview List
+      tableId: 627135826
+      formUrl: 
+      entryIds: []
+    - name: MC List
+      tableId: 2013703237
+      formUrl: 
+      entryIds: []
+    - name: LD List
+      tableId: 772429974
+      formUrl: 
+      entryIds: []
+  - name: Quiz Question
+    sheetId: 1c3jAfs6GDx4PQglxzw8Y0kF_ROdnaRHj2fX_sNIj3Ho
+    sheetTable:
+    - name: Term Test 3
+      tableId: 1197036982
+      formUrl: 
+      entryIds: []
+    - name: MC List
+      tableId: 2013703237
+      formUrl: 
+      entryIds: []
+    - name: LD List
+      tableId: 772429974
+      formUrl: 
+      entryIds: []
